@@ -1,0 +1,8 @@
+
+
+
+
+
+
+
+serverless invoke local --function billing --path mocks/billing-event.json
